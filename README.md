@@ -29,7 +29,7 @@ interactive-phrase-app
 - Click anywhere on the page to reveal each line of the phrase.
 - Enjoy the animations that accompany each line as it appears.
 
-## Technologies Used
+## Technologies Used d
 - HTML
 - CSS
 - JavaScript
